@@ -8,5 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="background">#0D1117</color>
+    <color name="window_background">#0D1117</color>
+    <color name="input_line">#21262D</color>
+    <color name="hint_edit_text">#88FFFFFF</color>
+    <color name="button_background">#438440</color>
 </resources>

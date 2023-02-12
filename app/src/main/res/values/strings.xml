@@ -2,5 +2,6 @@
     <string name="app_name">RepoObserver</string>
 
     <string name="access_token">Personal access token</string>
+    <string name="sign_in_button">Sign In</string>
 
 </resources>
