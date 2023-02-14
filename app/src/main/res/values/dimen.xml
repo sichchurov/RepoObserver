@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="p_16">
+        <item name="android:padding">16dp</item>
+    </dimen>
+</resources>
